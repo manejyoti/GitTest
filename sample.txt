@@ -4,4 +4,4 @@ vbvmm
 njbsmj,c
 nsbdjh
 
-git add head:master
+git add branch head:master
